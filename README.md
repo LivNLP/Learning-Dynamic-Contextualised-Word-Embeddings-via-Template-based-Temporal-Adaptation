@@ -6,4 +6,4 @@ please install requirements using:
 pip install -r requirements.txt
 ```
 
-Go to directories **data** and **src** for more details.
+Go to directories **[data](https://github.com/xiaohang-tang/Learning-Dynamic-Contextualised-Word-Embeddings-via-Template-based-Temporal-Adaptation/tree/69f5158d41a015d6f9d71e5ddfc5e6d12b0cb823/data)** and **[src](https://github.com/xiaohang-tang/Learning-Dynamic-Contextualised-Word-Embeddings-via-Template-based-Temporal-Adaptation/tree/69f5158d41a015d6f9d71e5ddfc5e6d12b0cb823/src)** for more details.
