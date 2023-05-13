@@ -9,4 +9,4 @@
 **main_mlm_timebert.py** and **main_mlm_timeroberta.py** are used to test the proposed approach   
 
 
-Default settting: --submetod 0 --k 100 --template 4 
+Default settting: --submetod 0 --k 100 --template 4 --remove_uv 0 --splitter sentence_splitter
