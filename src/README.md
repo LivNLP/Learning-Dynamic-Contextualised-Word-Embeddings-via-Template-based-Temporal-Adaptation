@@ -1,3 +1,5 @@
+# Instructions  
+
 **preprocess_yelp.py**, **unzip_reddit.py**, **dataget_arxiv.py**, and **dataget_ciao.py** are used to preprocess the data  
   
 **get_wuv.py** and **get_wuv_roberta.py** are used to find word tuples (for BERT and RoBERTa versions)  
